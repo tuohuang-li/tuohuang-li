@@ -1,6 +1,6 @@
 # Hi there 👋
 :cat:I'm Tuohuang Li (Jo).<br/> 
-:cat2:I recently completed a master's degree in Information Technology at the University of Melbourne.<br/>
+:cat2:I recently completed my master's degree in Information Technology at the University of Melbourne.<br/>
 :octocat: Most of my repositories here are my university projects in the past two years.
 - 🔭 I’m currently working on my job
 - 🌱 I’m currently learning web programming
