@@ -6,5 +6,5 @@
 - 🌱 I’m currently learning web programming
 - 💬 Ask me anything you would like to ask
 - 📫 How to reach me: <br>[My Linkedin](https://www.linkedin.com/in/tuohuang-li-955b8268/) <br> [GitHub Page](http://itsonigiri.me/)
-- 😄 Pronouns: They/She :rainbow_flag:
+- 😄 Pronouns: They/Them :rainbow_flag:
 
